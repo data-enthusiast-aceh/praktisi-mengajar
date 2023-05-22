@@ -2,7 +2,7 @@
 
 Minggu 1
 
-- Demand Python di Dunia Freelance ( upwork, freelancer )
+- Demand Python di Dunia Freelance ( upwork, freelancer, fiverr )
 - Instalasi Python
 - Install Pycharm
 - Github
